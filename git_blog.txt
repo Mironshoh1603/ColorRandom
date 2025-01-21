@@ -2,5 +2,5 @@ git config --global
 git init 
 git log
 git status
-git add
-git commit  -m ""
+git add . yoki fayl nomi
+git commit  -m "nimadir bo'lishi kerak: xabar :)"

@@ -1,0 +1,22 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  gap: 10px;
+}
+.color_container {
+  width: 400px;
+  height: 250px;
+  background-color: rgb(31, 24, 82);
+  border-radius: 10px;
+}
+.collorChanger {
+  padding: 10px;
+}
