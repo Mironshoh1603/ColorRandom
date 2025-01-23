@@ -7,3 +7,4 @@ git commit  -m "nimadir bo'lishi kerak: xabar :)"
 git remote add origin nimadir_link_github
 git branch branch_nimi_?
 git checkout branch_name_yoki_commit_id
+ git clone github_repo_link
