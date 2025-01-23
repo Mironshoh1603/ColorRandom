@@ -4,3 +4,6 @@ git log
 git status
 git add . yoki fayl nomi
 git commit  -m "nimadir bo'lishi kerak: xabar :)"
+git remote add origin nimadir_link_github
+git branch branch_nimi_?
+git checkout branch_name_yoki_commit_id
